@@ -1,4 +1,4 @@
-# cat-logo-de-produtos
+# catálogo-de-produtos
 Catálogo de produtos criado com as tecnologias  HTML e CSS
 
 # Página principal.
